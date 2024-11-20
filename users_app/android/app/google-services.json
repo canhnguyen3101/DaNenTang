@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "484233049811",
+    "firebase_url": "https://taxi-app-25e31-default-rtdb.firebaseio.com",
+    "project_id": "taxi-app-25e31",
+    "storage_bucket": "taxi-app-25e31.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484233049811:android:d6791b6e18ebc93f880626",
+        "android_client_info": {
+          "package_name": "com.hoangduc.taxi_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484233049811-dq6h5ruqtsf1uj8kfg7s6c86dohvs2j6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0hUQhBYFddpsfGb64zwbbsqB9cP-3ovs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484233049811-dq6h5ruqtsf1uj8kfg7s6c86dohvs2j6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484233049811:android:6300447bef5ff2c6880626",
+        "android_client_info": {
+          "package_name": "com.hoangduc.usersapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484233049811-dq6h5ruqtsf1uj8kfg7s6c86dohvs2j6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0hUQhBYFddpsfGb64zwbbsqB9cP-3ovs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484233049811-dq6h5ruqtsf1uj8kfg7s6c86dohvs2j6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,331 @@
+ {
+  "All Ride Request": {
+    "-NRqePvVglmdhVBJPJuf": {
+      "car_details": "123 Tesla Model S 29H6 - 1234",
+      "destination": {
+        "latitide": "21.6336243",
+        "longitude": "105.8334331"
+      },
+      "destinationAddress": "Chùa Hang",
+      "driverId": "CupktpQUPFPqsKQtI1xRYUygHYw2",
+      "driverLocation": {
+        "latitude": "21.5849917",
+        "longitude": "105.8063633"
+      },
+      "driverName": "canh",
+      "driverPhone": "0865535934",
+      "fareAmount": "49044",
+      "origin": {
+        "latitide": "21.5868989",
+        "longitude": "105.8040494"
+      },
+      "originAddress": "HRP3+QHP, Quyết Thắng, Thành phố Thái Nguyên, Thai Nguyen, Vietnam",
+      "status": "ended",
+      "time": "2023-03-31 14:55:02.758312",
+      "userName": "truuftdjc",
+      "userPhone": "0906039811"
+    },
+    "-NRrBT4DvKomUm2Nccl7": {
+      "car_details": "123 Tesla Model S 29H6 - 1234",
+      "destination": {
+        "latitide": "21.5945182",
+        "longitude": "105.8315226"
+      },
+      "destinationAddress": "Chùa Phù Liễn",
+      "driverId": "uyeZu3IOd3csb3eCMbWziBDygdk1",
+      "driverLocation": {
+        "latitude": "21.5849917",
+        "longitude": "105.8063633"
+      },
+      "driverName": "chan",
+      "driverPhone": "0947222001",
+      "fareAmount": "30955",
+      "origin": {
+        "latitide": "21.5860487",
+        "longitude": "105.8058332"
+      },
+      "originAddress": "HRP4+97H, Đường Z 115, Quyết Thắng, Thành phố Thái Nguyên, Thái Nguyên, Vietnam",
+      "status": "ended",
+      "time": "2023-03-31 17:23:48.566834",
+      "userName": "truuftdjc",
+      "userPhone": "0906039811"
+    },
+    "-NRrtNlrf9IkHDGsaVyk": {
+      "car_details": "123 Tesla Model S 29H6 - 1234",
+      "destination": {
+        "latitide": "21.4139",
+        "longitude": "105.8486"
+      },
+      "destinationAddress": "Phổ Yên",
+      "driverId": "uyeZu3IOd3csb3eCMbWziBDygdk1",
+      "driverLocation": {
+        "latitude": "21.5849917",
+        "longitude": "105.8063633"
+      },
+      "driverName": "chan",
+      "driverPhone": "0947222001",
+      "fareAmount": "200000",
+      "origin": {
+        "latitide": "21.5868768",
+        "longitude": "105.8040757"
+      },
+      "originAddress": "HRP3+QHP, Quyết Thắng, Thành phố Thái Nguyên, Thai Nguyen, Vietnam",
+      "status": "ended",
+      "time": "2023-03-31 20:40:03.325024",
+      "userName": "truuftdjc",
+      "userPhone": "0906039811"
+    },
+    "-NRrtNlrf9IkHDGsxUyk": {
+      "car_details": "123 Tesla Model S 29H6 - 1234",
+      "destination": {
+        "latitide": "21.5942946",
+        "longitude": "105.8085465"
+      },
+      "destinationAddress": "Thai Nguyen University Of Agriculture and Forestry",
+      "driverId": "uyeZu3IOd3csb3eCMbWziBDygdk1",
+      "driverLocation": {
+        "latitude": "21.5849917",
+        "longitude": "105.8063633"
+      },
+      "driverName": "chan",
+      "driverPhone": "0947222001",
+      "fareAmount": "30000",
+      "origin": {
+        "latitide": "21.5868768",
+        "longitude": "105.8040757"
+      },
+      "originAddress": "HRP3+QHP, Quyết Thắng, Thành phố Thái Nguyên, Thai Nguyen, Vietnam",
+      "status": "ended",
+      "time": "2023-03-31 20:40:03.325024",
+      "userName": "truuftdjc",
+      "userPhone": "0906039811"
+    },
+    "-NRs0Z7dLXfuNeZzKTe8": {
+      "car_details": "123 Tesla Model S 29H6 - 1234",
+      "destination": {
+        "latitide": "21.59015179999999",
+        "longitude": "105.8129098"
+      },
+      "destinationAddress": "University of Economics & Business Administration",
+      "driverId": "uyeZu3IOd3csb3eCMbWziBDygdk1",
+      "driverLocation": {
+        "latitude": "21.5850383",
+        "longitude": "105.80638"
+      },
+      "driverName": "chan",
+      "driverPhone": "0947222001",
+      "fareAmount": "20000",
+      "origin": {
+        "latitide": "21.5868901",
+        "longitude": "105.8040384"
+      },
+      "originAddress": "HRP3+QHP, Quyết Thắng, Thành phố Thái Nguyên, Thai Nguyen, Vietnam",
+      "status": "ended",
+      "time": "2023-03-31 21:15:46.989532",
+      "userName": "truuftdjc",
+      "userPhone": "0906039811"
+    },
+    "-NRsvfxKyElHM_BujM82": {
+      "car_details": "123 Tesla Model S 29H6 - 1234",
+      "destination": {
+        "latitide": "21.5712122",
+        "longitude": "105.8348698"
+      },
+      "destinationAddress": "GO! Thai Nguyen",
+      "driverId": "uyeZu3IOd3csb3eCMbWziBDygdk1",
+      "driverLocation": {
+        "latitude": "21.5849917",
+        "longitude": "105.8063633"
+      },
+      "driverName": "chan",
+      "driverPhone": "0947222001",
+      "fareAmount": "25939",
+      "origin": {
+        "latitide": "21.5868827",
+        "longitude": "105.8040694"
+      },
+      "originAddress": "HRP3+QHP, Quyết Thắng, Thành phố Thái Nguyên, Thai Nguyen, Vietnam",
+      "status": "ended",
+      "time": "2023-04-01 01:29:43.389012",
+      "userName": "truuftdjc",
+      "userPhone": "0906039811"
+    },
+    "-NS-q0WAA8SRqtaENmRb": {
+      "car_details": "123 Tesla Model S 29H6 - 1234",
+      "destination": {
+        "latitide": "21.5907023",
+        "longitude": "105.8264471"
+      },
+      "destinationAddress": "Medicare Vincom Thái Nguyên",
+      "driverId": "uyeZu3IOd3csb3eCMbWziBDygdk1",
+      "driverLocation": {
+        "latitude": "21.5712681",
+        "longitude": "105.8346799"
+      },
+      "driverName": "chan",
+      "driverPhone": "0947222001",
+      "fareAmount": "50333",
+      "origin": {
+        "latitide": "21.5868877",
+        "longitude": "105.8040334"
+      },
+      "originAddress": "HRP3+QHP, Quyết Thắng, Thành phố Thái Nguyên, Thai Nguyen, Vietnam",
+      "status": "ended",
+      "time": "2023-04-02 14:21:56.557953",
+      "userName": "truuftdjc",
+      "userPhone": "0906039811"
+    },
+    "-NSyLiuji-I9gEjpSAyo": {
+      "destination": {
+        "latitide": "21.6336243",
+        "longitude": "105.8334331"
+      },
+      "destinationAddress": "Chùa Hang",
+      "driverId": "waiting",
+      "origin": {
+        "latitide": "21.5868941",
+        "longitude": "105.8040078"
+      },
+      "originAddress": "HRP3+QHP, Quyết Thắng, Thành phố Thái Nguyên, Thai Nguyen, Vietnam",
+      "time": "2023-04-14 13:01:41.298055",
+      "userName": "truuftdjc",
+      "userPhone": "0906039811"
+    },
+    "-NSz7h-npkR5j9QLC4Vi": {
+      "car_details": "đen 134 vquz",
+      "destination": {
+        "latitide": "21.5955573",
+        "longitude": "105.844588"
+      },
+      "destinationAddress": "Nhà Thiếu Nhi Thái Nguyên",
+      "driverId": "CupktpQUPFPqsKQtI1xRYUygHYw2",
+      "driverLocation": {
+        "latitude": "21.5955567",
+        "longitude": "105.8445867"
+      },
+      "driverName": "chanh",
+      "driverPhone": "0947222001",
+      "origin": {
+        "latitide": "21.587392",
+        "longitude": "105.8061041"
+      },
+      "originAddress": "HRQ4+3C7, Quyết Thắng, Thành phố Thái Nguyên, Thai Nguyen, Vietnam",
+      "status": "ontrip",
+      "time": "2023-04-14 16:40:00.701395",
+      "userName": "kblost",
+      "userPhone": "0979965784"
+    }
+  },
+  "activeDrivers": {
+    "Ucu2HPji4oh0kkAoJWsWbkq07mp2": {
+      ".priority": "w7g4z9vetj",
+      "g": "w7g4z9veub",
+      "l": [
+        21.5873902,
+        105.8061132
+      ]
+    },
+    "uyeZu3IOd3csb3eCMbWziBDygdk1": {
+      ".priority": "w7g4z9mvdy",
+      "g": "w7g4z9mvdy",
+      "l": [
+        21.5849917,
+        105.8063633
+      ]
+    }
+  },
+  "drivers": {
+    "52CyyuqTVKgOiWGGgyju7qqyBd32": {
+      "car_details": {
+        "car_color": "White",
+        "car_model": "Honda MS 2023",
+        "car_number": "DG 21-993",
+        "type": "Xe máy"
+      },
+      "email": "neikihceb@gmail.com",
+      "id": "52CyyuqTVKgOiWGGgyju7qqyBd32",
+      "name": "Kien",
+      "newRideStatus": "idle",
+      "phone": "0979965784",
+      "token": "f5ahWah6TdOvCu9pIJnznZ:APA91bHzRxTvFH08kV2f5kG9qK36jH6z1HVC9eTFpBrU2jJeMd_OYZN5_swzEKf_yoW40dw-3kGS624vd3iu0-uiGK7kgqIRk41XpTI1pW2n9NAw1sI4Y3O5gTGPucs8GQfQ8HprECul",
+      "tripHistory": {
+        "-NQsuHAhUMeGDQsrcOwA": true
+      }
+    },
+    "CupktpQUPFPqsKQtI1xRYUygHYw2": {
+      "car_details": {
+        "car_color": "đen",
+        "car_model": "134",
+        "car_number": "vquz",
+        "type": "Xe máy"
+      },
+      "earnings": "49044",
+      "email": "outsellsd@yahoo.com",
+      "id": "CupktpQUPFPqsKQtI1xRYUygHYw2",
+      "name": "canh",
+      "newRideStatus": "accepted",
+      "phone": "0979965784",
+      "ratings": "5.0",
+      "token": "c76cBLH1RcynIMRc28pNex:APA91bFfouGLgnNkexHXNBb39X05sc2Js3HDCgP1vVjn-6QgQVoQ70zKz6dzRxGgN4gmehUTSEcmp2J_G_dtgVF4vWjfvUlPaBXjDVKSn34ueMlFqyWOHFs2dhW1BE1sTz-nprdJB92E",
+      "tripHistory": {
+        "-NRqePvVglmdhVBJPJuf": true
+      }
+    },
+    "Ucu2HPji4oh0kkAoJWsWbkq07mp2": {
+      "car_details": {
+        "car_color": "black",
+        "car_model": "Elon Musk 120",
+        "car_number": "1625",
+        "type": "7 chỗ"
+      },
+      "email": "dtc20h4801030029@itcu.edu.vn",
+      "id": "Ucu2HPji4oh0kkAoJWsWbkq07mp2",
+      "name": "canh Lost",
+      "newRideStatus": "idle",
+      "phone": "0979965784",
+      "token": "f5ahWah6TdOvCu9pIJnznZ:APA91bHzRxTvFH08kV2f5kG9qK36jH6z1HVC9eTFpBrU2jJeMd_OYZN5_swzEKf_yoW40dw-3kGS624vd3iu0-uiGK7kgqIRk41XpTI1pW2n9NAw1sI4Y3O5gTGPucs8GQfQ8HprECul"
+    },
+    "uyeZu3IOd3csb3eCMbWziBDygdk1": {
+      "car_details": {
+        "car_color": "123",
+        "car_model": "Tesla Model S",
+        "car_number": "29H6 - 1234",
+        "type": "4 chỗ"
+      },
+      "earnings": "355983",
+      "email": "ncanhh03@gmail.com",
+      "id": "uyeZu3IOd3csb3eCMbWziBDygdk1",
+      "name": "canh",
+      "newRideStatus": "idle",
+      "phone": "0865535934",
+      "ratings": "4.46875",
+      "token": "fmOgZgTHT-SDyhiZYDKRPs:APA91bHX7Y5gcjg7ft5APASvtlBsqAQqqjv1vk9bJi4bpMxVppHqLPuKHQVAJ6CIkbnC5hkJdiq9A4OfcsLZbXWSn36SJYHivmNLJP_p9G_A5xm-7H7fhBUisaE0jUGlx_xymYbpAHqB",
+      "tripHistory": {
+        "-NRqePvVglmdhVBJPJu1": true
+      }
+    }
+  },
+  "users": {
+    "9D97DmygYVVP6og0d8LctaeoMTm1": {
+      "email": "ncanhh03@gmail.com",
+      "id": "9D97DmygYVVP6og0d8LctaeoMTm1",
+      "name": "canh",
+      "phone": "0865535934"
+    },
+    "HhJ7M6wqvsgeZfayyPqASW8Ux6y2": {
+      "email": "ncanhh03@gmail.com",
+      "id": "HhJ7M6wqvsgeZfayyPqASW8Ux6y2",
+      "name": "chanhlost",
+      "phone": "0865535934",
+      "tripHistory": {
+        "-NRqePvVglmdhVBJPJuf": true
+      }
+    },
+    "gRzwtNrPKKYn2p1RucUi3rbrlFw1": {
+      "email": "ncanhh03@gmail.com",
+      "id": "gRzwtNrPKKYn2p1RucUi3rbrlFw1",
+      "name": "ncanh",
+      "phone": "0865535934"
+    }
+  }
+}

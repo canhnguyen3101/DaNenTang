@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1068253582770",
+    "project_id": "taxigo-daea3",
+    "storage_bucket": "taxigo-daea3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068253582770:android:f72f246e963caf7ae4c0ab",
+        "android_client_info": {
+          "package_name": "com.canh.taxi_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmTIeWbQVJoGhYOlb8SIOkaTgVrFJJSSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
